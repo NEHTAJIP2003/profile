@@ -1,4 +1,4 @@
-<img width="2520" height="690" alt="nethaji240" src="https://github.com/user-attachments/assets/374e1ee8-d957-4655-a02b-79cc4d88f7ef" />
+![Header](./nethaji240.png)
 <h1 align="center">Hi 👋, I'm NETHAJI</h1>
 <h3 align="center">A passionate mobile app developer from India</h3>
 <img align="right" alt="developerimage" width="300" src="https://imgs.search.brave.com/GcbhRM3BEnpzT2IUIIq3kGFsVharrMfGxRYb1SdIubc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jYW1v/LmdpdGh1YnVzZXJj/b250ZW50LmNvbS8y/MzY2YjM0YmI5MDNj/MDk2MTc5OTBmYjVm/ZmY0NjIyZjNlOTQx/MzQ5ZTg0NmRkYjdl/NzNkZjg3MmE5ZDIx/MjMzLzY4NzQ3NDcw/NzMzYTJmMmY2MzY0/NmUyZTY0NzI2OTYy/NjI2MjZjNjUyZTYz/NmY2ZDJmNzU3MzY1/NzI3MzJmMzczMzMw/MzczMDMzMmY3MzYz/NzI2NTY1NmU3MzY4/NmY3NDczMmYzNjM1/MzgzMTMyMzQzMzJm/NjE3NjY1NmU3NDZm/MmU2NzY5NjY">
